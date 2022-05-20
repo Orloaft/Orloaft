@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Orloaft
-- 👀 I’m interested in full-stack web development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a full-stack Web Developer
+- 🌱 I’m currently working in Javascript
+- 💞️ I’m looking to collaborate on exciting JS projects
 - 📫 How to reach me alexorlow17@gmail.com
 
 <!---
