@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Orloaft
 - 👀 I’m a full-stack Web Developer
-- 🌱 I’m currently working in Javascript
-- 💞️ I’m looking to collaborate on exciting JS projects
-- 📫 How to reach me alexorlow17@gmail.com
+- 🌱 I’m currently working in Javascript and Python
+- 💞️ I’m looking to collaborate on exciting web projects
+- 📫 How to reach me: alexorlow17@gmail.com
 
 <!---
 Orloaft/Orloaft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
